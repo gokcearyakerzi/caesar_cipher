@@ -50,7 +50,5 @@ while should == True:
         print("Good Byeeeee!")
         
 
-from art import logo
-print(logo)
 
 
